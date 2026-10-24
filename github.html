@@ -18,7 +18,7 @@ const GROUPS=MODE.startsWith('g:')?[MODE.slice(2)]:Object.keys(COL);
 const leg=document.getElementById('leg');GROUPS.forEach(g=>{const n=BOTS.filter(b=>b.group==g).length;leg.innerHTML+=`<span><i style="background:#${COL[g].toString(16).padStart(6,'0')}"></i>${g} (${n})</span>`});
 leg.innerHTML+=`<span><i style="background:#fff"></i>Chief (hub)</span>`+(GROUPS.includes('Personal')?' <span>· Personal = view-only grouping, not a sidebar section</span>':'');
 const sc=new THREE.Scene();sc.fog=new THREE.FogExp2(0x05060f,0.012);
-const cam=new THREE.PerspectiveCamera(60,innerWidth/innerHeight,0.1,1000);const asp=Math.max(1,1/(innerWidth/innerHeight));const D=MODE=='all'?48:MODE=='groups'?80:34;cam.position.set(0,D*0.5*asp,D*asp);
+const cam=new THREE.PerspectiveCamera(60,innerWidth/innerHeight,0.1,1000);const asp=Math.max(1,1/(innerWidth/innerHeight));const D=MODE=='all'?44:MODE=='groups'?62:16+BOTS.filter(b=>b.group==GROUPS[0]).length*0.9;cam.position.set(0,D*0.5*asp,D*asp);sc.fog.density=0.35/(D*asp);
 const r=new THREE.WebGLRenderer({antialias:true});r.setPixelRatio(Math.min(devicePixelRatio,2));r.setSize(innerWidth,innerHeight);document.body.appendChild(r.domElement);
 const ctl=new OrbitControls(cam,r.domElement);ctl.enableDamping=true;ctl.autoRotate=true;ctl.autoRotateSpeed=0.6;
 sc.add(new THREE.AmbientLight(0xffffff,0.6));const pl=new THREE.PointLight(0xffffff,400);pl.position.set(0,20,10);sc.add(pl);
