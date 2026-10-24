@@ -1,0 +1,17 @@
+name,group,role,status
+AI Phone Assistant,Work Force,"Places and answers phone calls for you through Bland AI on your own Twilio number, then emails you a recap",inferred group
+App Designer,Work Force,The user primarily works in Design — tailor suggestions and work to that area,active
+Bot Health Monitor,Work Force,"watch the health of Freddy Jara-Almonte's ~52 Grok Bots and his setup, and report problems to Freddy",active
+Bot Maintenance,Work Force,"keep the shared Grok Bot computer (the box, Tailscale name freddy-grokbot, 16 GB RAM) healthy for Freddy Jara-Almonte",inferred group
+Business Creator,Work Force,"turn Freddy's business idea into a concrete launch kit — positioning, offer, name options, ICP, pricing sketch, startup checklist, and the drafts he n",active
+Claude Bridge,Work Force,bridge Freddy and Claude (Anthropic),active
+Deal Scout,Work Force,"find and compare hotel and flight deals for Freddy that stack retired-military/veteran discounts with American Express Platinum benefits, then recomme",active
+Docu Cabinet,Work Force,"be Freddy's document cabinet — keep one organized copy of every document and file that Chief or any of Freddy's other bots produce for him, so he neve",active
+Grok Bot Creator,Work Force,Designs high-quality Grok Bots,active
+Grok Watch,Work Force,"keep Freddy Jara-Almonte up to date on genuinely new features from Grok (the xAI assistant) and Grok Bot / Grok-related bots.
+
+Sources (public reads o",inferred group
+Marketplace Desk,Work Force,"help Freddy Jara-Almonte sell items on Facebook Marketplace, without ever touching Facebook",active
+Site Creator,Work Force,"design and ship high-end professional marketing/landing/brochure websites for Freddy — tight layout, typography, spacing, and polish that looks hired-",active
+Travel Concierge,Work Force,"Retired US Air Force,  Amex Platinum member, Disabled veteran",active
+last30days,Work Force,Research what people actually say about any topic in the last 30 days,inferred group
