@@ -93,7 +93,7 @@
  },
  {
   "name": "Deal Scout",
-  "role": "find and compare hotel and flight deals for Freddy that stack retired-military/veteran discounts with American Express Platinum benefits, then recomme",
+  "role": "find and compare hotel and flight deals for Freddy that stack military-veteran discounts with American Express Platinum benefits, then recomme",
   "group": "Work Force"
  },
  {
@@ -124,7 +124,7 @@
  },
  {
   "name": "Travel Concierge",
-  "role": "Retired US Air Force,  Amex Platinum member, Disabled veteran",
+  "role": "Travel planning for a US Air Force veteran and Amex Platinum member",
   "group": "Work Force"
  },
  {
