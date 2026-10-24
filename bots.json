@@ -60,60 +60,6 @@
   "group": "GGL"
  },
  {
-  "name": "Retired GGL bot 1",
-  "role": "Retired (removed from the box)",
-  "group": "GGL",
-  "retired": true
- },
- {
-  "name": "Retired GGL bot 2",
-  "role": "Retired (removed from the box)",
-  "group": "GGL",
-  "retired": true
- },
- {
-  "name": "Retired GGL bot 3",
-  "role": "Retired (removed from the box)",
-  "group": "GGL",
-  "retired": true
- },
- {
-  "name": "Retired GGL bot 4",
-  "role": "Retired (removed from the box)",
-  "group": "GGL",
-  "retired": true
- },
- {
-  "name": "Retired GGL bot 5",
-  "role": "Retired (removed from the box)",
-  "group": "GGL",
-  "retired": true
- },
- {
-  "name": "Retired GGL bot 6",
-  "role": "Retired (removed from the box)",
-  "group": "GGL",
-  "retired": true
- },
- {
-  "name": "Retired GGL bot 7",
-  "role": "Retired (removed from the box)",
-  "group": "GGL",
-  "retired": true
- },
- {
-  "name": "Retired GGL bot 8",
-  "role": "Retired (removed from the box)",
-  "group": "GGL",
-  "retired": true
- },
- {
-  "name": "Retired GGL bot 9",
-  "role": "Retired (removed from the box)",
-  "group": "GGL",
-  "retired": true
- },
- {
   "name": "AI Phone Assistant",
   "role": "Places and answers phone calls for you through Bland AI on your own Twilio number, then emails you a recap",
   "group": "Work Force",

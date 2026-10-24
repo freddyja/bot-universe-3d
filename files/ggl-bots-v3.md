@@ -1,4 +1,4 @@
-# GGL (21 bots)
+# GGL (12 bots)
 
 | Bot | Role | Status |
 |---|---|---|
@@ -14,12 +14,3 @@
 | GGL SEO | search, Google, and social presence for Get Global Listing (getgloballisting.com) for Freddy Jara-Almonte | active |
 | GGL SiteAudit | audit websites and online listings for Freddy Jara-Almonte's Get Global Listing (GGL) team (getgloballisting.com, "We will put you on the map") | active |
 | GGL Website Builder | build and maintain the Get Global Listing website for Freddy Jara-Almonte (multi-page allowed) | active |
-| Retired GGL bot 1 | Retired (removed from the box) | retired |
-| Retired GGL bot 2 | Retired (removed from the box) | retired |
-| Retired GGL bot 3 | Retired (removed from the box) | retired |
-| Retired GGL bot 4 | Retired (removed from the box) | retired |
-| Retired GGL bot 5 | Retired (removed from the box) | retired |
-| Retired GGL bot 6 | Retired (removed from the box) | retired |
-| Retired GGL bot 7 | Retired (removed from the box) | retired |
-| Retired GGL bot 8 | Retired (removed from the box) | retired |
-| Retired GGL bot 9 | Retired (removed from the box) | retired |
