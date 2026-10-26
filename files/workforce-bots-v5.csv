@@ -1,5 +1,4 @@
 id,name,group,reports_to,role
-c5c3f1ec,"Chief","Command","Main contact & router · builds all bot schematics","Main contact; routes work & builds all bot schematics"
 085ada32,"App Designer","Work Force","Chief","App UI/UX design + GGL client package apps"
 17f21c39,"Bot Health Monitor","Work Force","Chief","Watches bot health; reports problems"
 06e7b43e,"Bot Maintenance","Work Force","Chief","Keeps the shared bot computer healthy"

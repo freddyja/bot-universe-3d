@@ -1,256 +1,256 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="1568" viewBox="0 0 1150 1568">
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="1540" viewBox="0 0 1150 1540">
 <rect width="100%" height="100%" fill="#080b16"/>
 <text x="36" y="48" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="24" font-weight="bold">Freddy's Grok Bots — All 50 Active Bots (v5)</text>
-<text x="36" y="76" fill="#95a2c6" font-family="Segoe UI, Arial" font-size="14">50 active bots across 5 sidebar groups + 2 pinned · v5 · Oct 25, 2026 (retired & merged bots excluded)</text>
+<text x="36" y="76" fill="#95a2c6" font-family="Segoe UI, Arial" font-size="14">50 active bots across 5 groups + 2 pinned · v5 · Oct 25, 2026 (retired & merged bots excluded)</text>
 <line x1="36" y1="94" x2="1114" y2="94" stroke="#243056" stroke-width="1"/>
-<circle cx="48" cy="119" r="6" fill="#eb50a0"/>
-<text x="66" y="124" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">All Trade Handyman</text>
-<text x="290" y="124" fill="#eb50a0" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
-<text x="430" y="124" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Handyman website, invoices, marketing</text>
-<text x="930" y="124" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="145" r="6" fill="#eb50a0"/>
-<text x="66" y="150" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Florida Açaí</text>
-<text x="290" y="150" fill="#eb50a0" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
-<text x="430" y="150" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Açaí shop website, menu, marketing</text>
-<text x="930" y="150" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="171" r="6" fill="#eb50a0"/>
-<text x="66" y="176" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Food Truck</text>
-<text x="290" y="176" fill="#eb50a0" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
-<text x="430" y="176" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Plans and runs the food truck</text>
-<text x="930" y="176" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="197" r="6" fill="#eb50a0"/>
-<text x="66" y="202" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Gibney Dental</text>
-<text x="290" y="202" fill="#eb50a0" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
-<text x="430" y="202" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Dental office management app and tools</text>
+<circle cx="48" cy="119" r="6" fill="#ffffff"/>
+<text x="66" y="124" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Chief</text>
+<text x="290" y="124" fill="#ffffff" font-family="Segoe UI, Arial" font-size="13">Command</text>
+<text x="430" y="124" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Main contact; routes work &amp; builds all bot schematics</text>
+<text x="930" y="124" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Freddy</text>
+<circle cx="48" cy="145" r="6" fill="#ffb020"/>
+<text x="66" y="150" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Brand Identity</text>
+<text x="290" y="150" fill="#ffb020" font-family="Segoe UI, Arial" font-size="13">GGL</text>
+<text x="430" y="150" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Brand look, Canva designs, print media</text>
+<text x="930" y="150" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
+<circle cx="48" cy="171" r="6" fill="#ffb020"/>
+<text x="66" y="176" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Central Hub</text>
+<text x="290" y="176" fill="#ffb020" font-family="Segoe UI, Arial" font-size="13">GGL</text>
+<text x="430" y="176" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Stores files; assembles package and customer ZIP</text>
+<text x="930" y="176" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
+<circle cx="48" cy="197" r="6" fill="#ffb020"/>
+<text x="66" y="202" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Chief</text>
+<text x="290" y="202" fill="#ffb020" font-family="Segoe UI, Arial" font-size="13">GGL</text>
+<text x="430" y="202" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Main GGL contact; runs the team</text>
 <text x="930" y="202" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="223" r="6" fill="#eb50a0"/>
-<text x="66" y="228" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Hermes Trailer</text>
-<text x="290" y="228" fill="#eb50a0" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
-<text x="430" y="228" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Cargo trailer customer catalog app</text>
-<text x="930" y="228" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="249" r="6" fill="#eb50a0"/>
-<text x="66" y="254" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Ola</text>
-<text x="290" y="254" fill="#eb50a0" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
-<text x="430" y="254" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Ola's Route 66 Lunch Box restaurant</text>
-<text x="930" y="254" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="275" r="6" fill="#eb50a0"/>
-<text x="66" y="280" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Organic House Cleaning</text>
-<text x="290" y="280" fill="#eb50a0" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
-<text x="430" y="280" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">House cleaning business marketing</text>
-<text x="930" y="280" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="301" r="6" fill="#eb50a0"/>
-<text x="66" y="306" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Realty Desk</text>
-<text x="290" y="306" fill="#eb50a0" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
-<text x="430" y="306" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Property listings site and ad flyers</text>
-<text x="930" y="306" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="327" r="6" fill="#eb50a0"/>
-<text x="66" y="332" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Smart Touch Homes</text>
-<text x="290" y="332" fill="#eb50a0" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
-<text x="430" y="332" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Smart home/IT ops + CME website &amp; App Center</text>
-<text x="930" y="332" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="353" r="6" fill="#eb50a0"/>
-<text x="66" y="358" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Y&M Total Solutions</text>
-<text x="290" y="358" fill="#eb50a0" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
-<text x="430" y="358" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Landscaping marketing, tools, bid pricing</text>
-<text x="930" y="358" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="379" r="6" fill="#508cf5"/>
-<text x="66" y="384" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Brand Identity</text>
-<text x="290" y="384" fill="#508cf5" font-family="Segoe UI, Arial" font-size="13">GGL</text>
-<text x="430" y="384" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Brand look, Canva designs, print media</text>
-<text x="930" y="384" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
-<circle cx="48" cy="405" r="6" fill="#508cf5"/>
-<text x="66" y="410" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Central Hub</text>
-<text x="290" y="410" fill="#508cf5" font-family="Segoe UI, Arial" font-size="13">GGL</text>
-<text x="430" y="410" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Stores files; assembles package and customer ZIP</text>
-<text x="930" y="410" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
-<circle cx="48" cy="431" r="6" fill="#508cf5"/>
-<text x="66" y="436" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Chief</text>
-<text x="290" y="436" fill="#508cf5" font-family="Segoe UI, Arial" font-size="13">GGL</text>
-<text x="430" y="436" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Main GGL contact; runs the team</text>
-<text x="930" y="436" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">GGL section lead</text>
-<circle cx="48" cy="457" r="6" fill="#508cf5"/>
-<text x="66" y="462" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Closer</text>
-<text x="290" y="462" fill="#508cf5" font-family="Segoe UI, Arial" font-size="13">GGL</text>
-<text x="430" y="462" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Contracts, final pitch, after-sale follow-up</text>
-<text x="930" y="462" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
-<circle cx="48" cy="483" r="6" fill="#508cf5"/>
-<text x="66" y="488" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Discovery Interviewer</text>
-<text x="290" y="488" fill="#508cf5" font-family="Segoe UI, Arial" font-size="13">GGL</text>
-<text x="430" y="488" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Interviews customers; writes business and intake questions</text>
-<text x="930" y="488" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
-<circle cx="48" cy="509" r="6" fill="#508cf5"/>
-<text x="66" y="514" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Inbox</text>
-<text x="290" y="514" fill="#508cf5" font-family="Segoe UI, Arial" font-size="13">GGL</text>
-<text x="430" y="514" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Checks GGL inbox; flags mail</text>
-<text x="930" y="514" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
-<circle cx="48" cy="535" r="6" fill="#508cf5"/>
-<text x="66" y="540" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Pricing</text>
-<text x="290" y="540" fill="#508cf5" font-family="Segoe UI, Arial" font-size="13">GGL</text>
-<text x="430" y="540" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Works out what to charge</text>
-<text x="930" y="540" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
-<circle cx="48" cy="561" r="6" fill="#508cf5"/>
-<text x="66" y="566" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL SEO</text>
-<text x="290" y="566" fill="#508cf5" font-family="Segoe UI, Arial" font-size="13">GGL</text>
-<text x="430" y="566" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">SEO, Google, AI Search visibility (AEO) &amp; social</text>
-<text x="930" y="566" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
-<circle cx="48" cy="587" r="6" fill="#508cf5"/>
-<text x="66" y="592" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL SiteAudit</text>
-<text x="290" y="592" fill="#508cf5" font-family="Segoe UI, Arial" font-size="13">GGL</text>
-<text x="430" y="592" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Audits websites, listings &amp; AI crawler readiness</text>
-<text x="930" y="592" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
-<circle cx="48" cy="613" r="6" fill="#a06ef0"/>
-<text x="66" y="618" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Arise with Grace Coffee</text>
-<text x="290" y="618" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
-<text x="430" y="618" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Christian women's café planning and outreach</text>
+<circle cx="48" cy="223" r="6" fill="#ffb020"/>
+<text x="66" y="228" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Closer</text>
+<text x="290" y="228" fill="#ffb020" font-family="Segoe UI, Arial" font-size="13">GGL</text>
+<text x="430" y="228" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Contracts, final pitch, after-sale follow-up</text>
+<text x="930" y="228" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
+<circle cx="48" cy="249" r="6" fill="#ffb020"/>
+<text x="66" y="254" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Discovery Interviewer</text>
+<text x="290" y="254" fill="#ffb020" font-family="Segoe UI, Arial" font-size="13">GGL</text>
+<text x="430" y="254" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Interviews customers; writes business and intake questions</text>
+<text x="930" y="254" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
+<circle cx="48" cy="275" r="6" fill="#ffb020"/>
+<text x="66" y="280" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Inbox</text>
+<text x="290" y="280" fill="#ffb020" font-family="Segoe UI, Arial" font-size="13">GGL</text>
+<text x="430" y="280" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Checks GGL inbox; flags mail</text>
+<text x="930" y="280" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
+<circle cx="48" cy="301" r="6" fill="#ffb020"/>
+<text x="66" y="306" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL Pricing</text>
+<text x="290" y="306" fill="#ffb020" font-family="Segoe UI, Arial" font-size="13">GGL</text>
+<text x="430" y="306" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Works out what to charge</text>
+<text x="930" y="306" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
+<circle cx="48" cy="327" r="6" fill="#ffb020"/>
+<text x="66" y="332" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL SEO</text>
+<text x="290" y="332" fill="#ffb020" font-family="Segoe UI, Arial" font-size="13">GGL</text>
+<text x="430" y="332" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">SEO, Google, AI Search visibility (AEO) &amp; social</text>
+<text x="930" y="332" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
+<circle cx="48" cy="353" r="6" fill="#ffb020"/>
+<text x="66" y="358" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">GGL SiteAudit</text>
+<text x="290" y="358" fill="#ffb020" font-family="Segoe UI, Arial" font-size="13">GGL</text>
+<text x="430" y="358" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Audits websites, listings &amp; AI crawler readiness</text>
+<text x="930" y="358" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to GGL Chief</text>
+<circle cx="48" cy="379" r="6" fill="#33d17a"/>
+<text x="66" y="384" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">App Designer</text>
+<text x="290" y="384" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="384" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">App UI/UX design + GGL client package apps</text>
+<text x="930" y="384" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="405" r="6" fill="#33d17a"/>
+<text x="66" y="410" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Bot Health Monitor</text>
+<text x="290" y="410" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="410" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Watches bot health; reports problems</text>
+<text x="930" y="410" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="431" r="6" fill="#33d17a"/>
+<text x="66" y="436" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Bot Maintenance</text>
+<text x="290" y="436" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="436" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Keeps the shared bot computer healthy</text>
+<text x="930" y="436" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="457" r="6" fill="#33d17a"/>
+<text x="66" y="462" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Business Creator</text>
+<text x="290" y="462" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="462" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Turns business ideas into launch kits</text>
+<text x="930" y="462" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="483" r="6" fill="#33d17a"/>
+<text x="66" y="488" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Claude Bridge</text>
+<text x="290" y="488" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="488" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Builds apps with Claude and GitHub</text>
+<text x="930" y="488" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="509" r="6" fill="#33d17a"/>
+<text x="66" y="514" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Docu Cabinet</text>
+<text x="290" y="514" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="514" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Files one copy of every document</text>
+<text x="930" y="514" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="535" r="6" fill="#33d17a"/>
+<text x="66" y="540" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Due Diligence Analyst</text>
+<text x="290" y="540" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="540" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Vets companies and deals with citations</text>
+<text x="930" y="540" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="561" r="6" fill="#33d17a"/>
+<text x="66" y="566" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Grok Bot Creator</text>
+<text x="290" y="566" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="566" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Designs and creates new bots</text>
+<text x="930" y="566" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="587" r="6" fill="#33d17a"/>
+<text x="66" y="592" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Marketplace Desk</text>
+<text x="290" y="592" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="592" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Helps sell on Facebook Marketplace</text>
+<text x="930" y="592" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="613" r="6" fill="#33d17a"/>
+<text x="66" y="618" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Outbound Bot</text>
+<text x="290" y="618" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="618" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Researches prospects; drafts outreach</text>
 <text x="930" y="618" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="639" r="6" fill="#a06ef0"/>
-<text x="66" y="644" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Biblical Pharmacy</text>
-<text x="290" y="644" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
-<text x="430" y="644" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Explains herbs through a biblical lens</text>
+<circle cx="48" cy="639" r="6" fill="#33d17a"/>
+<text x="66" y="644" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Site Creator</text>
+<text x="290" y="644" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="644" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">High-end marketing sites + GGL &amp; client websites</text>
 <text x="930" y="644" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="665" r="6" fill="#a06ef0"/>
-<text x="66" y="670" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Booth Ops</text>
-<text x="290" y="670" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
-<text x="430" y="670" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">360 photo booth app operations</text>
+<circle cx="48" cy="665" r="6" fill="#33d17a"/>
+<text x="66" y="670" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Stalk Bot</text>
+<text x="290" y="670" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="670" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Watches competitors' pricing and pages</text>
 <text x="930" y="670" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="691" r="6" fill="#a06ef0"/>
-<text x="66" y="696" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Doula</text>
-<text x="290" y="696" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
-<text x="430" y="696" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Doula education and exercise app</text>
+<circle cx="48" cy="691" r="6" fill="#33d17a"/>
+<text x="66" y="696" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Travel Concierge</text>
+<text x="290" y="696" fill="#33d17a" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
+<text x="430" y="696" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Trip planning + veteran &amp; Amex hotel/flight deals</text>
 <text x="930" y="696" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="717" r="6" fill="#a06ef0"/>
-<text x="66" y="722" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Faithful Service Network</text>
-<text x="290" y="722" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
-<text x="430" y="722" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Business directory site and listings</text>
+<circle cx="48" cy="717" r="6" fill="#3b8cff"/>
+<text x="66" y="722" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">All Trade Handyman</text>
+<text x="290" y="722" fill="#3b8cff" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
+<text x="430" y="722" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Handyman website, invoices, marketing</text>
 <text x="930" y="722" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="743" r="6" fill="#a06ef0"/>
-<text x="66" y="748" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Fire Fellowship and Bible Verse</text>
-<text x="290" y="748" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
-<text x="430" y="748" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Live EN/ES/PT fellowship captions + Bible Verse app</text>
+<circle cx="48" cy="743" r="6" fill="#3b8cff"/>
+<text x="66" y="748" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Florida Açaí</text>
+<text x="290" y="748" fill="#3b8cff" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
+<text x="430" y="748" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Açaí shop website, menu, marketing</text>
 <text x="930" y="748" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="769" r="6" fill="#a06ef0"/>
-<text x="66" y="774" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Kingdom Sisters</text>
-<text x="290" y="774" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
-<text x="430" y="774" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Live multilingual sisters caption app</text>
+<circle cx="48" cy="769" r="6" fill="#3b8cff"/>
+<text x="66" y="774" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Food Truck</text>
+<text x="290" y="774" fill="#3b8cff" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
+<text x="430" y="774" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Plans and runs the food truck</text>
 <text x="930" y="774" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="795" r="6" fill="#a06ef0"/>
-<text x="66" y="800" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Meeting Translator</text>
-<text x="290" y="800" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
-<text x="430" y="800" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Live multilingual meeting captions</text>
+<circle cx="48" cy="795" r="6" fill="#3b8cff"/>
+<text x="66" y="800" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Gibney Dental</text>
+<text x="290" y="800" fill="#3b8cff" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
+<text x="430" y="800" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Dental office management app and tools</text>
 <text x="930" y="800" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="821" r="6" fill="#a06ef0"/>
-<text x="66" y="826" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Pantry Desk</text>
-<text x="290" y="826" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
-<text x="430" y="826" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Food pantry check-in tracker</text>
+<circle cx="48" cy="821" r="6" fill="#3b8cff"/>
+<text x="66" y="826" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Hermes Trailer</text>
+<text x="290" y="826" fill="#3b8cff" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
+<text x="430" y="826" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Cargo trailer customer catalog app</text>
 <text x="930" y="826" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="847" r="6" fill="#ff6b9d"/>
-<text x="66" y="852" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">AI Phone Assistant</text>
-<text x="290" y="852" fill="#ff6b9d" font-family="Segoe UI, Arial" font-size="13">Personal</text>
-<text x="430" y="852" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Places and answers calls via Bland AI</text>
+<circle cx="48" cy="847" r="6" fill="#3b8cff"/>
+<text x="66" y="852" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Ola</text>
+<text x="290" y="852" fill="#3b8cff" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
+<text x="430" y="852" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Ola's Route 66 Lunch Box restaurant</text>
 <text x="930" y="852" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="873" r="6" fill="#ff6b9d"/>
-<text x="66" y="878" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Bounty Hunter</text>
-<text x="290" y="878" fill="#ff6b9d" font-family="Segoe UI, Arial" font-size="13">Personal</text>
-<text x="430" y="878" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Finds missed refunds and unclaimed money</text>
+<circle cx="48" cy="873" r="6" fill="#3b8cff"/>
+<text x="66" y="878" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Organic House Cleaning</text>
+<text x="290" y="878" fill="#3b8cff" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
+<text x="430" y="878" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">House cleaning business marketing</text>
 <text x="930" y="878" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="899" r="6" fill="#ff6b9d"/>
-<text x="66" y="904" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">DJ Bot</text>
-<text x="290" y="904" fill="#ff6b9d" font-family="Segoe UI, Arial" font-size="13">Personal</text>
-<text x="430" y="904" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Builds Spotify and YouTube playlists</text>
+<circle cx="48" cy="899" r="6" fill="#3b8cff"/>
+<text x="66" y="904" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Realty Desk</text>
+<text x="290" y="904" fill="#3b8cff" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
+<text x="430" y="904" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Property listings site and ad flyers</text>
 <text x="930" y="904" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="925" r="6" fill="#ff6b9d"/>
-<text x="66" y="930" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Grok Watch</text>
-<text x="290" y="930" fill="#ff6b9d" font-family="Segoe UI, Arial" font-size="13">Personal</text>
-<text x="430" y="930" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Tracks new Grok and Grok Bot features</text>
+<circle cx="48" cy="925" r="6" fill="#3b8cff"/>
+<text x="66" y="930" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Smart Touch Homes</text>
+<text x="290" y="930" fill="#3b8cff" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
+<text x="430" y="930" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Smart home/IT ops + CME website &amp; App Center</text>
 <text x="930" y="930" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="951" r="6" fill="#ff6b9d"/>
-<text x="66" y="956" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">House Fixer</text>
-<text x="290" y="956" fill="#ff6b9d" font-family="Segoe UI, Arial" font-size="13">Personal</text>
-<text x="430" y="956" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Home upkeep, repairs, appliance notebook</text>
+<circle cx="48" cy="951" r="6" fill="#3b8cff"/>
+<text x="66" y="956" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Y&M Total Solutions</text>
+<text x="290" y="956" fill="#3b8cff" font-family="Segoe UI, Arial" font-size="13">Business Bots</text>
+<text x="430" y="956" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Landscaping marketing, tools, bid pricing</text>
 <text x="930" y="956" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="977" r="6" fill="#ff6b9d"/>
-<text x="66" y="982" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Vet Buddy</text>
-<text x="290" y="982" fill="#ff6b9d" font-family="Segoe UI, Arial" font-size="13">Personal</text>
-<text x="430" y="982" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">VA benefits, health care, claims navigator</text>
+<circle cx="48" cy="977" r="6" fill="#c061ff"/>
+<text x="66" y="982" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Arise with Grace Coffee</text>
+<text x="290" y="982" fill="#c061ff" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="982" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Christian women's café planning and outreach</text>
 <text x="930" y="982" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1003" r="6" fill="#ff6b9d"/>
-<text x="66" y="1008" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">last30days</text>
-<text x="290" y="1008" fill="#ff6b9d" font-family="Segoe UI, Arial" font-size="13">Personal</text>
-<text x="430" y="1008" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Researches what people say last 30 days</text>
+<circle cx="48" cy="1003" r="6" fill="#c061ff"/>
+<text x="66" y="1008" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Biblical Pharmacy</text>
+<text x="290" y="1008" fill="#c061ff" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="1008" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Explains herbs through a biblical lens</text>
 <text x="930" y="1008" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1029" r="6" fill="#f5c442"/>
-<text x="66" y="1034" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Chief</text>
-<text x="290" y="1034" fill="#f5c442" font-family="Segoe UI, Arial" font-size="13">Command</text>
-<text x="430" y="1034" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Main contact; routes work &amp; builds all bot schematics</text>
-<text x="930" y="1034" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Main contact &amp; router · builds all bot schematics</text>
-<circle cx="48" cy="1055" r="6" fill="#f5c442"/>
-<text x="66" y="1060" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Personal Assistant</text>
-<text x="290" y="1060" fill="#f5c442" font-family="Segoe UI, Arial" font-size="13">Command</text>
-<text x="430" y="1060" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Personal life: calendar, errands, reminders</text>
-<text x="930" y="1060" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Pinned personal assistant</text>
-<circle cx="48" cy="1081" r="6" fill="#46c878"/>
-<text x="66" y="1086" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">App Designer</text>
-<text x="290" y="1086" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1086" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">App UI/UX design + GGL client package apps</text>
+<circle cx="48" cy="1029" r="6" fill="#c061ff"/>
+<text x="66" y="1034" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Booth Ops</text>
+<text x="290" y="1034" fill="#c061ff" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="1034" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">360 photo booth app operations</text>
+<text x="930" y="1034" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="1055" r="6" fill="#c061ff"/>
+<text x="66" y="1060" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Doula</text>
+<text x="290" y="1060" fill="#c061ff" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="1060" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Doula education and exercise app</text>
+<text x="930" y="1060" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="1081" r="6" fill="#c061ff"/>
+<text x="66" y="1086" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Faithful Service Network</text>
+<text x="290" y="1086" fill="#c061ff" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="1086" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Business directory site and listings</text>
 <text x="930" y="1086" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1107" r="6" fill="#46c878"/>
-<text x="66" y="1112" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Bot Health Monitor</text>
-<text x="290" y="1112" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1112" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Watches bot health; reports problems</text>
+<circle cx="48" cy="1107" r="6" fill="#c061ff"/>
+<text x="66" y="1112" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Fire Fellowship and Bible Verse</text>
+<text x="290" y="1112" fill="#c061ff" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="1112" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Live EN/ES/PT fellowship captions + Bible Verse app</text>
 <text x="930" y="1112" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1133" r="6" fill="#46c878"/>
-<text x="66" y="1138" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Bot Maintenance</text>
-<text x="290" y="1138" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1138" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Keeps the shared bot computer healthy</text>
+<circle cx="48" cy="1133" r="6" fill="#c061ff"/>
+<text x="66" y="1138" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Kingdom Sisters</text>
+<text x="290" y="1138" fill="#c061ff" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="1138" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Live multilingual sisters caption app</text>
 <text x="930" y="1138" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1159" r="6" fill="#46c878"/>
-<text x="66" y="1164" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Business Creator</text>
-<text x="290" y="1164" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1164" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Turns business ideas into launch kits</text>
+<circle cx="48" cy="1159" r="6" fill="#c061ff"/>
+<text x="66" y="1164" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Meeting Translator</text>
+<text x="290" y="1164" fill="#c061ff" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="1164" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Live multilingual meeting captions</text>
 <text x="930" y="1164" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1185" r="6" fill="#46c878"/>
-<text x="66" y="1190" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Claude Bridge</text>
-<text x="290" y="1190" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1190" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Builds apps with Claude and GitHub</text>
+<circle cx="48" cy="1185" r="6" fill="#c061ff"/>
+<text x="66" y="1190" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Pantry Desk</text>
+<text x="290" y="1190" fill="#c061ff" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="1190" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Food pantry check-in tracker</text>
 <text x="930" y="1190" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1211" r="6" fill="#46c878"/>
-<text x="66" y="1216" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Docu Cabinet</text>
-<text x="290" y="1216" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1216" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Files one copy of every document</text>
+<circle cx="48" cy="1211" r="6" fill="#ff5c8a"/>
+<text x="66" y="1216" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">AI Phone Assistant</text>
+<text x="290" y="1216" fill="#ff5c8a" font-family="Segoe UI, Arial" font-size="13">Personal</text>
+<text x="430" y="1216" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Places and answers calls via Bland AI</text>
 <text x="930" y="1216" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1237" r="6" fill="#46c878"/>
-<text x="66" y="1242" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Due Diligence Analyst</text>
-<text x="290" y="1242" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1242" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Vets companies and deals with citations</text>
+<circle cx="48" cy="1237" r="6" fill="#ff5c8a"/>
+<text x="66" y="1242" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Bounty Hunter</text>
+<text x="290" y="1242" fill="#ff5c8a" font-family="Segoe UI, Arial" font-size="13">Personal</text>
+<text x="430" y="1242" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Finds missed refunds and unclaimed money</text>
 <text x="930" y="1242" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1263" r="6" fill="#46c878"/>
-<text x="66" y="1268" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Grok Bot Creator</text>
-<text x="290" y="1268" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1268" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Designs and creates new bots</text>
+<circle cx="48" cy="1263" r="6" fill="#ff5c8a"/>
+<text x="66" y="1268" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">DJ Bot</text>
+<text x="290" y="1268" fill="#ff5c8a" font-family="Segoe UI, Arial" font-size="13">Personal</text>
+<text x="430" y="1268" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Builds Spotify and YouTube playlists</text>
 <text x="930" y="1268" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1289" r="6" fill="#46c878"/>
-<text x="66" y="1294" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Marketplace Desk</text>
-<text x="290" y="1294" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1294" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Helps sell on Facebook Marketplace</text>
+<circle cx="48" cy="1289" r="6" fill="#ff5c8a"/>
+<text x="66" y="1294" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Grok Watch</text>
+<text x="290" y="1294" fill="#ff5c8a" font-family="Segoe UI, Arial" font-size="13">Personal</text>
+<text x="430" y="1294" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Tracks new Grok and Grok Bot features</text>
 <text x="930" y="1294" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1315" r="6" fill="#46c878"/>
-<text x="66" y="1320" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Outbound Bot</text>
-<text x="290" y="1320" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1320" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Researches prospects; drafts outreach</text>
+<circle cx="48" cy="1315" r="6" fill="#ff5c8a"/>
+<text x="66" y="1320" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">House Fixer</text>
+<text x="290" y="1320" fill="#ff5c8a" font-family="Segoe UI, Arial" font-size="13">Personal</text>
+<text x="430" y="1320" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Home upkeep, repairs, appliance notebook</text>
 <text x="930" y="1320" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1341" r="6" fill="#46c878"/>
-<text x="66" y="1346" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Site Creator</text>
-<text x="290" y="1346" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1346" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">High-end marketing sites + GGL &amp; client websites</text>
+<circle cx="48" cy="1341" r="6" fill="#ff5c8a"/>
+<text x="66" y="1346" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">last30days</text>
+<text x="290" y="1346" fill="#ff5c8a" font-family="Segoe UI, Arial" font-size="13">Personal</text>
+<text x="430" y="1346" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Researches what people say last 30 days</text>
 <text x="930" y="1346" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1367" r="6" fill="#46c878"/>
-<text x="66" y="1372" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Stalk Bot</text>
-<text x="290" y="1372" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1372" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Watches competitors' pricing and pages</text>
-<text x="930" y="1372" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
-<circle cx="48" cy="1393" r="6" fill="#46c878"/>
-<text x="66" y="1398" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Travel Concierge</text>
-<text x="290" y="1398" fill="#46c878" font-family="Segoe UI, Arial" font-size="13">Work Force</text>
-<text x="430" y="1398" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Trip planning + veteran &amp; Amex hotel/flight deals</text>
+<circle cx="48" cy="1367" r="6" fill="#ff5c8a"/>
+<text x="66" y="1372" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Personal Assistant</text>
+<text x="290" y="1372" fill="#ff5c8a" font-family="Segoe UI, Arial" font-size="13">Personal</text>
+<text x="430" y="1372" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Personal life: calendar, errands, reminders</text>
+<text x="930" y="1372" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Freddy</text>
+<circle cx="48" cy="1393" r="6" fill="#ff5c8a"/>
+<text x="66" y="1398" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Vet Buddy</text>
+<text x="290" y="1398" fill="#ff5c8a" font-family="Segoe UI, Arial" font-size="13">Personal</text>
+<text x="430" y="1398" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">VA benefits, health care, claims navigator</text>
 <text x="930" y="1398" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
 </svg>
