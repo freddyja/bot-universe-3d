@@ -1,0 +1,12 @@
+id,name,group,reports_to,role
+dfdaba2f,"All Trade Handyman","Business Bots","Chief","Handyman website, invoices, marketing"
+3c8c014e,"Florida Açaí","Business Bots","Chief","Açaí shop website, menu, marketing"
+032b06b1,"Food Truck","Business Bots","Chief","Plans and runs the food truck"
+77efa0a9,"Gibney Dental","Business Bots","Chief","Dental office management app and tools"
+de13b5b3,"Hermes Trailer","Business Bots","Chief","Cargo trailer customer catalog app"
+5c08d413,"Ola","Business Bots","Chief","Ola's Route 66 Lunch Box restaurant"
+8dd2016c,"Organic House Cleaning","Business Bots","Chief","House cleaning business marketing"
+601583ab,"Realty Desk","Business Bots","Chief","Property listings site and ad flyers"
+fead274c,"Smart Touch Homes","Business Bots","Chief","Smart home/IT ops + CME website & App Center"
+4657e8cf,"Y&M Total Solutions","Business Bots","Chief","Landscaping marketing, tools, bid pricing"
+c5c3f1ec,"Chief","Command","Main contact & router · builds all bot schematics","Main contact; routes work & builds all bot schematics"

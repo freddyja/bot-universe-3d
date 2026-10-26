@@ -1,0 +1,11 @@
+id,name,group,reports_to,role
+23225999,"GGL Brand Identity","GGL","GGL Chief","Brand look, Canva designs, print media"
+1878eed8,"GGL Central Hub","GGL","GGL Chief","Stores files; assembles package and customer ZIP"
+4bfdede6,"GGL Chief","GGL","GGL section lead","Main GGL contact; runs the team"
+fe361f1e,"GGL Closer","GGL","GGL Chief","Contracts, final pitch, after-sale follow-up"
+02512e69,"GGL Discovery Interviewer","GGL","GGL Chief","Interviews customers; writes business and intake questions"
+a2feaab0,"GGL Inbox","GGL","GGL Chief","Checks GGL inbox; flags mail"
+13c9d262,"GGL Pricing","GGL","GGL Chief","Works out what to charge"
+2bc3b36c,"GGL SEO","GGL","GGL Chief","SEO, Google, AI Search visibility (AEO) & social"
+3d45805f,"GGL SiteAudit","GGL","GGL Chief","Audits websites, listings & AI crawler readiness"
+c5c3f1ec,"Chief","Command","Main contact & router · builds all bot schematics","Main contact; routes work & builds all bot schematics"

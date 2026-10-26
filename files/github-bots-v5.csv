@@ -1,0 +1,11 @@
+id,name,group,reports_to,role
+19c08eff,"Arise with Grace Coffee","GitHub Bots","Chief","Christian women's café planning and outreach"
+cb6c74c6,"Biblical Pharmacy","GitHub Bots","Chief","Explains herbs through a biblical lens"
+4e890ef3,"Booth Ops","GitHub Bots","Chief","360 photo booth app operations"
+d1385996,"Doula","GitHub Bots","Chief","Doula education and exercise app"
+fc4d931e,"Faithful Service Network","GitHub Bots","Chief","Business directory site and listings"
+59702a69,"Fire Fellowship and Bible Verse","GitHub Bots","Chief","Live EN/ES/PT fellowship captions + Bible Verse app"
+5c68fc7f,"Kingdom Sisters","GitHub Bots","Chief","Live multilingual sisters caption app"
+5e7583cb,"Meeting Translator","GitHub Bots","Chief","Live multilingual meeting captions"
+7bec440c,"Pantry Desk","GitHub Bots","Chief","Food pantry check-in tracker"
+c5c3f1ec,"Chief","Command","Main contact & router · builds all bot schematics","Main contact; routes work & builds all bot schematics"

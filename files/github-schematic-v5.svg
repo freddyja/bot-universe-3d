@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="560" viewBox="0 0 1150 560">
+<rect width="100%" height="100%" fill="#080b16"/>
+<text x="36" y="48" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="24" font-weight="bold">GitHub Bots Schematic (v5)</text>
+<text x="36" y="76" fill="#95a2c6" font-family="Segoe UI, Arial" font-size="14">9 active GitHub Bots bots + Chief (router) · v5 · Oct 25, 2026 (retired & merged bots excluded)</text>
+<line x1="36" y1="94" x2="1114" y2="94" stroke="#243056" stroke-width="1"/>
+<circle cx="48" cy="119" r="6" fill="#a06ef0"/>
+<text x="66" y="124" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Arise with Grace Coffee</text>
+<text x="290" y="124" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="124" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Christian women's café planning and outreach</text>
+<text x="930" y="124" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="145" r="6" fill="#a06ef0"/>
+<text x="66" y="150" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Biblical Pharmacy</text>
+<text x="290" y="150" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="150" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Explains herbs through a biblical lens</text>
+<text x="930" y="150" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="171" r="6" fill="#a06ef0"/>
+<text x="66" y="176" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Booth Ops</text>
+<text x="290" y="176" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="176" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">360 photo booth app operations</text>
+<text x="930" y="176" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="197" r="6" fill="#a06ef0"/>
+<text x="66" y="202" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Doula</text>
+<text x="290" y="202" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="202" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Doula education and exercise app</text>
+<text x="930" y="202" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="223" r="6" fill="#a06ef0"/>
+<text x="66" y="228" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Faithful Service Network</text>
+<text x="290" y="228" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="228" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Business directory site and listings</text>
+<text x="930" y="228" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="249" r="6" fill="#a06ef0"/>
+<text x="66" y="254" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Fire Fellowship and Bible Verse</text>
+<text x="290" y="254" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="254" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Live EN/ES/PT fellowship captions + Bible Verse app</text>
+<text x="930" y="254" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="275" r="6" fill="#a06ef0"/>
+<text x="66" y="280" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Kingdom Sisters</text>
+<text x="290" y="280" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="280" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Live multilingual sisters caption app</text>
+<text x="930" y="280" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="301" r="6" fill="#a06ef0"/>
+<text x="66" y="306" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Meeting Translator</text>
+<text x="290" y="306" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="306" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Live multilingual meeting captions</text>
+<text x="930" y="306" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="327" r="6" fill="#a06ef0"/>
+<text x="66" y="332" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Pantry Desk</text>
+<text x="290" y="332" fill="#a06ef0" font-family="Segoe UI, Arial" font-size="13">GitHub Bots</text>
+<text x="430" y="332" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Food pantry check-in tracker</text>
+<text x="930" y="332" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Reports to Chief</text>
+<circle cx="48" cy="353" r="6" fill="#f5c442"/>
+<text x="66" y="358" fill="#eef2ff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">Chief</text>
+<text x="290" y="358" fill="#f5c442" font-family="Segoe UI, Arial" font-size="13">Command</text>
+<text x="430" y="358" fill="#aab6d8" font-family="Segoe UI, Arial" font-size="13">Main contact; routes work &amp; builds all bot schematics</text>
+<text x="930" y="358" fill="#7f8db3" font-family="Segoe UI, Arial" font-size="12">Main contact &amp; router · builds all bot schematics</text>
+</svg>
