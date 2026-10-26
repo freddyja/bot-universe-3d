@@ -1,259 +1,525 @@
-[
- {
-  "name": "GGL App Creator",
-  "role": "build apps for Get Global Listing (GGL) clients as part of their service packages, for Freddy Jara-Almonte",
-  "group": "GGL"
- },
- {
-  "name": "GGL Brand Identity",
-  "role": "Get Global Listing's brand, design, and print for Freddy Jara-Almonte",
-  "group": "GGL"
- },
- {
-  "name": "GGL Central Hub",
-  "role": "be the Get Global Listing team's central hub and package builder for Freddy Jara-Almonte",
-  "group": "GGL"
- },
- {
-  "name": "GGL Chief",
-  "role": "be Freddy Jara-Almonte's main point of contact for Get Global Listing (GGL)",
-  "group": "GGL"
- },
- {
-  "name": "GGL Closer",
-  "role": "close and keep Get Global Listing customers for Freddy Jara-Almonte",
-  "group": "GGL"
- },
- {
-  "name": "GGL Discovery Interviewer",
-  "role": "all discovery and question work for Freddy Jara-Almonte's Get Global Listing (GGL) team",
-  "group": "GGL"
- },
- {
-  "name": "GGL Inbox",
-  "role": "check the Get Global Listing inbox contactus@getgloballisting.com (hosted by IONOS) for Freddy Jara-Almonte",
-  "group": "GGL"
- },
- {
-  "name": "GGL Interaction Schematic",
-  "role": "create and keep current a schematic diagram of how the bots on whatever business team it is running for interact (starting with the Get Global Listing",
-  "group": "GGL"
- },
- {
-  "name": "GGL Pricing",
-  "role": "work out what Get Global Listing should charge before Freddy pitches: competitor research, cost, packages and tiers, and a pricing sheet",
-  "group": "GGL"
- },
- {
-  "name": "GGL SEO",
-  "role": "search, Google, and social presence for Get Global Listing (getgloballisting.com) for Freddy Jara-Almonte",
-  "group": "GGL"
- },
- {
-  "name": "GGL SiteAudit",
-  "role": "audit websites and online listings for Freddy Jara-Almonte's Get Global Listing (GGL) team (getgloballisting.com, \"We will put you on the map\")",
-  "group": "GGL"
- },
- {
-  "name": "GGL Website Builder",
-  "role": "build and maintain the Get Global Listing website for Freddy Jara-Almonte (multi-page allowed)",
-  "group": "GGL"
- },
- {
-  "name": "AI Phone Assistant",
-  "role": "Places and answers phone calls for you through Bland AI on your own Twilio number, then emails you a recap",
-  "group": "Work Force",
-  "inferred": true
- },
- {
-  "name": "App Designer",
-  "role": "The user primarily works in Design — tailor suggestions and work to that area",
-  "group": "Work Force"
- },
- {
-  "name": "Bot Health Monitor",
-  "role": "watch the health of Freddy Jara-Almonte's ~52 Grok Bots and his setup, and report problems to Freddy",
-  "group": "Work Force"
- },
- {
-  "name": "Bot Maintenance",
-  "role": "keep the shared Grok Bot computer (the box, Tailscale name freddy-grokbot, 16 GB RAM) healthy for Freddy Jara-Almonte",
-  "group": "Work Force",
-  "inferred": true
- },
- {
-  "name": "Business Creator",
-  "role": "turn Freddy's business idea into a concrete launch kit — positioning, offer, name options, ICP, pricing sketch, startup checklist, and the drafts he n",
-  "group": "Work Force"
- },
- {
-  "name": "Claude Bridge",
-  "role": "bridge Freddy and Claude (Anthropic)",
-  "group": "Work Force"
- },
- {
-  "name": "Deal Scout",
-  "role": "find and compare hotel and flight deals for Freddy that stack military-veteran discounts with American Express Platinum benefits, then recomme",
-  "group": "Work Force"
- },
- {
-  "name": "Docu Cabinet",
-  "role": "be Freddy's document cabinet — keep one organized copy of every document and file that Chief or any of Freddy's other bots produce for him, so he neve",
-  "group": "Work Force"
- },
- {
-  "name": "Grok Bot Creator",
-  "role": "Designs high-quality Grok Bots",
-  "group": "Work Force"
- },
- {
-  "name": "Grok Watch",
-  "role": "keep Freddy Jara-Almonte up to date on genuinely new features from Grok (the xAI assistant) and Grok Bot / Grok-related bots.\n\nSources (public reads o",
-  "group": "Work Force",
-  "inferred": true
- },
- {
-  "name": "Marketplace Desk",
-  "role": "help Freddy Jara-Almonte sell items on Facebook Marketplace, without ever touching Facebook",
-  "group": "Work Force"
- },
- {
-  "name": "Site Creator",
-  "role": "design and ship high-end professional marketing/landing/brochure websites for Freddy — tight layout, typography, spacing, and polish that looks hired-",
-  "group": "Work Force"
- },
- {
-  "name": "Travel Concierge",
-  "role": "Travel planning for a US Air Force veteran and Amex Platinum member",
-  "group": "Work Force"
- },
- {
-  "name": "last30days",
-  "role": "Research what people actually say about any topic in the last 30 days",
-  "group": "Work Force",
-  "inferred": true
- },
- {
-  "name": "All Trade Handyman",
-  "role": "own day-to-day planning and execution for All Trade Handyman Services (athandyman.com) — website updates handoff notes, branded invoices/estimates (.d",
-  "group": "Business Bots"
- },
- {
-  "name": "CME Web App Center",
-  "role": "redesign and ship a professional, dynamic, interactive marketing website for Freddy’s Computing Made Easy / Smart Touch Homes business — modern layout",
-  "group": "Business Bots"
- },
- {
-  "name": "Florida Açaí",
-  "role": "own day-to-day planning and execution for Florida Brazilian Açaí (Brooksville, FL) — the multilingual WhatsApp-ordering website, menu/offer drafts, lo",
-  "group": "Business Bots"
- },
- {
-  "name": "Food Truck",
-  "role": "own Freddy's food truck project — planning and day-to-day execution for a food truck business (concept, menu and pricing, permits and licensing in Flo",
-  "group": "Business Bots"
- },
- {
-  "name": "Gibney Dental",
-  "role": "own day-to-day planning and execution for Gibney Dental Office tools — the local Flask/SQLite dental practice management app, office workflow notes, a",
-  "group": "Business Bots"
- },
- {
-  "name": "Hermes Trailer",
-  "role": "design and ship the Hermes Cargo Trailers customer app for Freddy — a mobile-friendly catalog of enclosed trailer styles (photos + specs) and accessor",
-  "group": "Business Bots"
- },
- {
-  "name": "Ola",
-  "role": "own Ola's for Freddy — Ola's Route 66 Lunch Box, 1342 NM-333 Ste F, Tijeras, NM 87059, phone 505-288-7576, open Wednesday–Saturday 8 AM–1 PM Mountain ",
-  "group": "Business Bots"
- },
- {
-  "name": "Organic House Cleaning",
-  "role": "own Organic House Cleaning for Freddy, the business run by mother-and-daughter team Anne & Rosana (Clean, Organize, Refresh; 20+ years; cleaning from ",
-  "group": "Business Bots"
- },
- {
-  "name": "Realty Desk",
-  "role": "own day-to-day planning and execution for Freddy Jara-Almonte Realty — live property listings site + admin dashboard notes (Supabase), HTML real estat",
-  "group": "Business Bots"
- },
- {
-  "name": "Smart Touch Homes",
-  "role": "own day-to-day planning and execution for Smart Touch Homes / Computing Made Easy — IT, home automation, and security positioning, web presence notes,",
-  "group": "Business Bots"
- },
- {
-  "name": "Y&M Total Solutions",
-  "role": "own day-to-day planning and execution for Y&M Total Solutions landscaping — marketing materials, customer tools, Hernando County / gov road-corridor b",
-  "group": "Business Bots"
- },
- {
-  "name": "Arise with Grace Coffee",
-  "role": "own day-to-day planning and execution for Arise with Grace Coffee Shop — a Spring Hill, FL (Tampa Bay) café for Christian women to read the Word, meet",
-  "group": "GitHub Bots"
- },
- {
-  "name": "Bible Verse Tracker",
-  "role": "own Bible Verse Tracker for Freddy — a personal app where he saves biblical verses that impact him, organizes them into categories he defines, and can",
-  "group": "GitHub Bots"
- },
- {
-  "name": "Biblical Pharmacy",
-  "role": "be Freddy’s Biblical Pharmacy guide — explain herbs and traditional preparations through the lens that God placed plants on earth for a purpose (creat",
-  "group": "GitHub Bots"
- },
- {
-  "name": "Booth Ops",
-  "role": "keep Freddy moving on the 360show booth app — remote operator, capture, frames, music, and deploy notes — so product/UI work stays unblocked",
-  "group": "GitHub Bots"
- },
- {
-  "name": "Doula",
-  "role": "own Doula for Freddy — a doula education and exercise app (prenatal/postpartum education modules, guided movement/exercise appropriate for pregnancy a",
-  "group": "GitHub Bots"
- },
- {
-  "name": "Faithful Service Network",
-  "role": "own day-to-day planning and execution for Faithful Service Network — the business directory site, client landing pages, directory listings drafts, and",
-  "group": "GitHub Bots"
- },
- {
-  "name": "Fire Fellowship and Bible Verse",
-  "role": "own Fire and Fellowship for Freddy — especially the live multilingual fellowship caption app (English / Spanish / Portuguese speech-to-text + translat",
-  "group": "GitHub Bots"
- },
- {
-  "name": "Kingdom Sisters",
-  "role": "own Kingdom Sisters for Freddy — especially the live multilingual sisters caption app (English / Spanish / Portuguese speech-to-text + translation for",
-  "group": "GitHub Bots"
- },
- {
-  "name": "Meeting Translator",
-  "role": "own Meeting Translator for Freddy — the live multilingual meeting caption app (English / Spanish / Portuguese speech-to-text + translation)",
-  "group": "GitHub Bots"
- },
- {
-  "name": "Pantry Desk",
-  "role": "own the Christian food pantry intake tracker for Freddy — check-in, household records, and once-per-calendar-month eligibility so staff know who can r",
-  "group": "GitHub Bots"
- },
- {
-  "name": "House Fixer",
-  "role": "be Freddy Jara-Almonte's home-upkeep notebook",
-  "group": "Personal",
-  "note": "Personal is a view-only grouping, not a sidebar section"
- },
- {
-  "name": "Personal Assistant",
-  "role": "be Freddy Jara-Almonte's personal assistant for his personal life (not his businesses, which have their own bots)",
-  "group": "Personal",
-  "note": "Personal is a view-only grouping, not a sidebar section"
- },
- {
-  "name": "VetCompass",
-  "role": "A VA benefits navigator for veterans, families, and survivors",
-  "group": "Personal",
-  "note": "Personal is a view-only grouping, not a sidebar section"
- }
-]
+{
+  "updated": "2026-10-25",
+  "version": "v4",
+  "note": "Active bots only; retired GGL bots (9) and retired CFO bot (33957f04) excluded.",
+  "hub": {
+    "id": "c5c3f1ec",
+    "name": "Chief",
+    "group": "Command",
+    "role": "Main contact; routes work to bots",
+    "desc": "Main contact; routes work to bots"
+  },
+  "groups": [
+    "GGL",
+    "Work Force",
+    "Business Bots",
+    "GitHub Bots",
+    "Personal"
+  ],
+  "bots": [
+    {
+      "id": "e62e6465",
+      "name": "GGL App Creator",
+      "raw_name": "GGL App Creator",
+      "group": "GGL",
+      "role": "Builds client apps for packages",
+      "desc": "Builds client apps for packages",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "23225999",
+      "name": "GGL Brand Identity",
+      "raw_name": "GGL Brand Identity",
+      "group": "GGL",
+      "role": "Brand look, Canva designs, print media",
+      "desc": "Brand look, Canva designs, print media",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "1878eed8",
+      "name": "GGL Central Hub",
+      "raw_name": "GGL Central Hub",
+      "group": "GGL",
+      "role": "Stores files; assembles package and customer ZIP",
+      "desc": "Stores files; assembles package and customer ZIP",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "4bfdede6",
+      "name": "GGL Chief",
+      "raw_name": "GGL Chief",
+      "group": "GGL",
+      "role": "Main GGL contact; runs the team",
+      "desc": "Main GGL contact; runs the team",
+      "rep": "Chief"
+    },
+    {
+      "id": "fe361f1e",
+      "name": "GGL Closer",
+      "raw_name": "GGL Closer",
+      "group": "GGL",
+      "role": "Contracts, final pitch, after-sale follow-up",
+      "desc": "Contracts, final pitch, after-sale follow-up",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "02512e69",
+      "name": "GGL Discovery Interviewer",
+      "raw_name": "GGL Discovery Interviewer",
+      "group": "GGL",
+      "role": "Interviews customers; writes business and intake questions",
+      "desc": "Interviews customers; writes business and intake questions",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "a2feaab0",
+      "name": "GGL Inbox",
+      "raw_name": "GGL Inbox",
+      "group": "GGL",
+      "role": "Checks GGL inbox; flags mail",
+      "desc": "Checks GGL inbox; flags mail",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "f874630d",
+      "name": "GGL Interaction Schematic",
+      "raw_name": "GGL Interaction Schematic",
+      "group": "GGL",
+      "role": "Diagrams how the bots work together",
+      "desc": "Diagrams how the bots work together",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "13c9d262",
+      "name": "GGL Pricing",
+      "raw_name": "GGL Pricing",
+      "group": "GGL",
+      "role": "Works out what to charge",
+      "desc": "Works out what to charge",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "2bc3b36c",
+      "name": "GGL SEO",
+      "raw_name": "GGL SEO",
+      "group": "GGL",
+      "role": "SEO, Google Analytics, and social media",
+      "desc": "SEO, Google Analytics, and social media",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "3d45805f",
+      "name": "GGL SiteAudit",
+      "raw_name": "GGL SiteAudit",
+      "group": "GGL",
+      "role": "Audits client websites and online listings",
+      "desc": "Audits client websites and online listings",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "305e99c8",
+      "name": "GGL Website Builder",
+      "raw_name": "GGL Website Builder",
+      "group": "GGL",
+      "role": "Builds the multilingual GGL website",
+      "desc": "Builds the multilingual GGL website",
+      "rep": "GGL Chief"
+    },
+    {
+      "id": "a800cd23",
+      "name": "AI Search Bot",
+      "raw_name": "AI Search Bot",
+      "group": "Work Force",
+      "role": "Checks brand visibility on AI & Google",
+      "desc": "Checks brand visibility on AI & Google",
+      "rep": "Chief"
+    },
+    {
+      "id": "085ada32",
+      "name": "App Designer",
+      "raw_name": "App Designer",
+      "group": "Work Force",
+      "role": "Designs app screens and looks",
+      "desc": "Designs app screens and looks",
+      "rep": "Chief"
+    },
+    {
+      "id": "17f21c39",
+      "name": "Bot Health Monitor",
+      "raw_name": "Bot Health Monitor",
+      "group": "Work Force",
+      "role": "Watches bot health; reports problems",
+      "desc": "Watches bot health; reports problems",
+      "rep": "Chief"
+    },
+    {
+      "id": "06e7b43e",
+      "name": "Bot Maintenance",
+      "raw_name": "Bot Maintenance",
+      "group": "Work Force",
+      "role": "Keeps the shared bot computer healthy",
+      "desc": "Keeps the shared bot computer healthy",
+      "rep": "Chief"
+    },
+    {
+      "id": "4b2b6c53",
+      "name": "Business Creator",
+      "raw_name": "Business Creator",
+      "group": "Work Force",
+      "role": "Turns business ideas into launch kits",
+      "desc": "Turns business ideas into launch kits",
+      "rep": "Chief"
+    },
+    {
+      "id": "4cbbce70",
+      "name": "Claude Bridge",
+      "raw_name": "Claude Bridge",
+      "group": "Work Force",
+      "role": "Builds apps with Claude and GitHub",
+      "desc": "Builds apps with Claude and GitHub",
+      "rep": "Chief"
+    },
+    {
+      "id": "0c68fe3f",
+      "name": "Deal Scout",
+      "raw_name": "Deal Scout",
+      "group": "Work Force",
+      "role": "Finds veteran hotel and flight deals",
+      "desc": "Finds veteran hotel and flight deals",
+      "rep": "Chief"
+    },
+    {
+      "id": "1f76e859",
+      "name": "Docu Cabinet",
+      "raw_name": "Docu Cabinet",
+      "group": "Work Force",
+      "role": "Files one copy of every document",
+      "desc": "Files one copy of every document",
+      "rep": "Chief"
+    },
+    {
+      "id": "c2ba2c07",
+      "name": "Due Diligence Analyst",
+      "raw_name": "Due Diligence Analyst",
+      "group": "Work Force",
+      "role": "Vets companies and deals with citations",
+      "desc": "Vets companies and deals with citations",
+      "rep": "Chief"
+    },
+    {
+      "id": "21cd64c6",
+      "name": "Grok Bot Creator",
+      "raw_name": "Grok Bot Creator",
+      "group": "Work Force",
+      "role": "Designs and creates new bots",
+      "desc": "Designs and creates new bots",
+      "rep": "Chief"
+    },
+    {
+      "id": "20617539",
+      "name": "Marketplace Desk",
+      "raw_name": "Marketplace Desk",
+      "group": "Work Force",
+      "role": "Helps sell on Facebook Marketplace",
+      "desc": "Helps sell on Facebook Marketplace",
+      "rep": "Chief"
+    },
+    {
+      "id": "1315f48c",
+      "name": "Outbound Bot",
+      "raw_name": "Outbound Bot",
+      "group": "Work Force",
+      "role": "Researches prospects; drafts outreach",
+      "desc": "Researches prospects; drafts outreach",
+      "rep": "Chief"
+    },
+    {
+      "id": "5e66e07a",
+      "name": "Site Creator",
+      "raw_name": "Site Creator",
+      "group": "Work Force",
+      "role": "Builds high-end marketing websites",
+      "desc": "Builds high-end marketing websites",
+      "rep": "Chief"
+    },
+    {
+      "id": "5b6380a7",
+      "name": "Stalk Bot",
+      "raw_name": "Stalk Bot",
+      "group": "Work Force",
+      "role": "Watches competitors' pricing and pages",
+      "desc": "Watches competitors' pricing and pages",
+      "rep": "Chief"
+    },
+    {
+      "id": "816a7a67",
+      "name": "Travel Concierge",
+      "raw_name": "Travel Concierge",
+      "group": "Work Force",
+      "role": "Plans trips with veteran and Amex perks",
+      "desc": "Plans trips with veteran and Amex perks",
+      "rep": "Chief"
+    },
+    {
+      "id": "dfdaba2f",
+      "name": "All Trade Handyman",
+      "raw_name": "All Trade Handyman",
+      "group": "Business Bots",
+      "role": "Handyman website, invoices, marketing",
+      "desc": "Handyman website, invoices, marketing",
+      "rep": "Chief"
+    },
+    {
+      "id": "c3f95b69",
+      "name": "CME Web App Center",
+      "raw_name": "CME Web App Center",
+      "group": "Business Bots",
+      "role": "Computing Made Easy site and App Center",
+      "desc": "Computing Made Easy site and App Center",
+      "rep": "Chief"
+    },
+    {
+      "id": "3c8c014e",
+      "name": "Florida Açaí",
+      "raw_name": "Florida Açaí",
+      "group": "Business Bots",
+      "role": "Açaí shop website, menu, marketing",
+      "desc": "Açaí shop website, menu, marketing",
+      "rep": "Chief"
+    },
+    {
+      "id": "032b06b1",
+      "name": "Food Truck",
+      "raw_name": "Food Truck",
+      "group": "Business Bots",
+      "role": "Plans and runs the food truck",
+      "desc": "Plans and runs the food truck",
+      "rep": "Chief"
+    },
+    {
+      "id": "77efa0a9",
+      "name": "Gibney Dental",
+      "raw_name": "Gibney Dental",
+      "group": "Business Bots",
+      "role": "Dental office management app and tools",
+      "desc": "Dental office management app and tools",
+      "rep": "Chief"
+    },
+    {
+      "id": "de13b5b3",
+      "name": "Hermes Trailer",
+      "raw_name": "Hermes Trailer",
+      "group": "Business Bots",
+      "role": "Cargo trailer customer catalog app",
+      "desc": "Cargo trailer customer catalog app",
+      "rep": "Chief"
+    },
+    {
+      "id": "5c08d413",
+      "name": "Ola",
+      "raw_name": "Ola",
+      "group": "Business Bots",
+      "role": "Ola's Route 66 Lunch Box restaurant",
+      "desc": "Ola's Route 66 Lunch Box restaurant",
+      "rep": "Chief"
+    },
+    {
+      "id": "8dd2016c",
+      "name": "Organic House Cleaning",
+      "raw_name": "Organic House Cleaning",
+      "group": "Business Bots",
+      "role": "House cleaning business marketing",
+      "desc": "House cleaning business marketing",
+      "rep": "Chief"
+    },
+    {
+      "id": "601583ab",
+      "name": "Realty Desk",
+      "raw_name": "Realty Desk",
+      "group": "Business Bots",
+      "role": "Property listings site and ad flyers",
+      "desc": "Property listings site and ad flyers",
+      "rep": "Chief"
+    },
+    {
+      "id": "fead274c",
+      "name": "Smart Touch Homes",
+      "raw_name": "Smart Touch Homes",
+      "group": "Business Bots",
+      "role": "IT and home automation business",
+      "desc": "IT and home automation business",
+      "rep": "Chief"
+    },
+    {
+      "id": "4657e8cf",
+      "name": "Y&M Total Solutions",
+      "raw_name": "Y&M Total Solutions",
+      "group": "Business Bots",
+      "role": "Landscaping marketing, tools, bid pricing",
+      "desc": "Landscaping marketing, tools, bid pricing",
+      "rep": "Chief"
+    },
+    {
+      "id": "19c08eff",
+      "name": "Arise with Grace Coffee",
+      "raw_name": "Arise with Grace Coffee",
+      "group": "GitHub Bots",
+      "role": "Christian women's café planning and outreach",
+      "desc": "Christian women's café planning and outreach",
+      "rep": "Chief"
+    },
+    {
+      "id": "ab4fc49b",
+      "name": "Bible Verse Tracker",
+      "raw_name": "Bible Verse Tracker",
+      "group": "GitHub Bots",
+      "role": "Saves Bible verses that matter",
+      "desc": "Saves Bible verses that matter",
+      "rep": "Chief"
+    },
+    {
+      "id": "cb6c74c6",
+      "name": "Biblical Pharmacy",
+      "raw_name": "Biblical Pharmacy",
+      "group": "GitHub Bots",
+      "role": "Explains herbs through a biblical lens",
+      "desc": "Explains herbs through a biblical lens",
+      "rep": "Chief"
+    },
+    {
+      "id": "4e890ef3",
+      "name": "Booth Ops",
+      "raw_name": "Booth Ops",
+      "group": "GitHub Bots",
+      "role": "360 photo booth app operations",
+      "desc": "360 photo booth app operations",
+      "rep": "Chief"
+    },
+    {
+      "id": "d1385996",
+      "name": "Doula",
+      "raw_name": "Doula",
+      "group": "GitHub Bots",
+      "role": "Doula education and exercise app",
+      "desc": "Doula education and exercise app",
+      "rep": "Chief"
+    },
+    {
+      "id": "fc4d931e",
+      "name": "Faithful Service Network",
+      "raw_name": "Faithful Service Network",
+      "group": "GitHub Bots",
+      "role": "Business directory site and listings",
+      "desc": "Business directory site and listings",
+      "rep": "Chief"
+    },
+    {
+      "id": "59702a69",
+      "name": "Fire Fellowship and Bible Verse",
+      "raw_name": "Fire Fellowship and Bible Verse",
+      "group": "GitHub Bots",
+      "role": "Live multilingual fellowship caption app",
+      "desc": "Live multilingual fellowship caption app",
+      "rep": "Chief"
+    },
+    {
+      "id": "5c68fc7f",
+      "name": "Kingdom Sisters",
+      "raw_name": "Kingdom Sisters",
+      "group": "GitHub Bots",
+      "role": "Live multilingual sisters caption app",
+      "desc": "Live multilingual sisters caption app",
+      "rep": "Chief"
+    },
+    {
+      "id": "5e7583cb",
+      "name": "Meeting Translator",
+      "raw_name": "Meeting Translator",
+      "group": "GitHub Bots",
+      "role": "Live multilingual meeting captions",
+      "desc": "Live multilingual meeting captions",
+      "rep": "Chief"
+    },
+    {
+      "id": "7bec440c",
+      "name": "Pantry Desk",
+      "raw_name": "Pantry Desk",
+      "group": "GitHub Bots",
+      "role": "Food pantry check-in tracker",
+      "desc": "Food pantry check-in tracker",
+      "rep": "Chief"
+    },
+    {
+      "id": "5fe47fc3",
+      "name": "AI Phone Assistant",
+      "raw_name": "AI Phone Assistant",
+      "group": "Personal",
+      "role": "Places and answers calls via Bland AI",
+      "desc": "Places and answers calls via Bland AI",
+      "rep": "Chief"
+    },
+    {
+      "id": "7ac4f7e7",
+      "name": "Bounty Hunter",
+      "raw_name": "Bounty Hunter",
+      "group": "Personal",
+      "role": "Finds missed refunds and unclaimed money",
+      "desc": "Finds missed refunds and unclaimed money",
+      "rep": "Chief"
+    },
+    {
+      "id": "806ebae5",
+      "name": "DJ Bot",
+      "raw_name": "DJ Bot",
+      "group": "Personal",
+      "role": "Builds Spotify and YouTube playlists",
+      "desc": "Builds Spotify and YouTube playlists",
+      "rep": "Chief"
+    },
+    {
+      "id": "c8544621",
+      "name": "Grok Watch",
+      "raw_name": "Grok Watch",
+      "group": "Personal",
+      "role": "Tracks new Grok and Grok Bot features",
+      "desc": "Tracks new Grok and Grok Bot features",
+      "rep": "Chief"
+    },
+    {
+      "id": "58c838ca",
+      "name": "House Fixer",
+      "raw_name": "House Fixer",
+      "group": "Personal",
+      "role": "Home upkeep, repairs, appliance notebook",
+      "desc": "Home upkeep, repairs, appliance notebook",
+      "rep": "Chief"
+    },
+    {
+      "id": "128aae62",
+      "name": "last30days",
+      "raw_name": "last30days",
+      "group": "Personal",
+      "role": "Researches what people say last 30 days",
+      "desc": "Researches what people say last 30 days",
+      "rep": "Chief"
+    },
+    {
+      "id": "146b3e6b",
+      "name": "Personal Assistant",
+      "raw_name": "Personal Assistant",
+      "group": "Personal",
+      "role": "Personal life: calendar, errands, reminders",
+      "desc": "Personal life: calendar, errands, reminders",
+      "rep": "Freddy"
+    },
+    {
+      "id": "2ad18f4b",
+      "name": "Vet Buddy",
+      "raw_name": "🎖️ Vet Buddy",
+      "group": "Personal",
+      "role": "VA benefits, health care, claims navigator",
+      "desc": "VA benefits, health care, claims navigator",
+      "rep": "Chief"
+    }
+  ]
+}

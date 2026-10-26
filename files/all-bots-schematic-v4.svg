@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1404" font-family="Arial">
+<rect width="100%" height="100%" fill="#0b1020"/>
+<text x="640" y="45" fill="#fff" font-size="28" text-anchor="middle" font-weight="bold">Freddy's Active Grok Bots — 57 Bots (v4, 2026-10-25)</text>
+<rect x="550" y="68" width="180" height="44" rx="22" fill="#f5c442"/>
+<text x="640" y="96" font-size="18" text-anchor="middle" font-weight="bold" fill="#111">Chief (Command Hub)</text>
+<rect x="30" y="155" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="170" y="179" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL App Creator (GGL)</text>
+<text x="170" y="200" font-size="11" text-anchor="middle" fill="#1a1f30">Builds client apps for packages</text>
+<rect x="343" y="155" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="483" y="179" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL Brand Identity (GGL)</text>
+<text x="483" y="200" font-size="11" text-anchor="middle" fill="#1a1f30">Brand look, Canva designs, print media</text>
+<rect x="656" y="155" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="796" y="179" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL Central Hub (GGL)</text>
+<text x="796" y="200" font-size="11" text-anchor="middle" fill="#1a1f30">Stores files; assembles package and customer</text>
+<rect x="970" y="155" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="1110" y="179" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL Chief (GGL)</text>
+<text x="1110" y="200" font-size="11" text-anchor="middle" fill="#1a1f30">Main GGL contact; runs the team</text>
+<rect x="30" y="239" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="170" y="263" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL Closer (GGL)</text>
+<text x="170" y="284" font-size="11" text-anchor="middle" fill="#1a1f30">Contracts, final pitch, after-sale follow-up</text>
+<rect x="343" y="239" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="483" y="263" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL Discovery Interviewer (GGL)</text>
+<text x="483" y="284" font-size="11" text-anchor="middle" fill="#1a1f30">Interviews customers; writes business and in</text>
+<rect x="656" y="239" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="796" y="263" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL Inbox (GGL)</text>
+<text x="796" y="284" font-size="11" text-anchor="middle" fill="#1a1f30">Checks GGL inbox; flags mail</text>
+<rect x="970" y="239" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="1110" y="263" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL Interaction Schematic (GGL)</text>
+<text x="1110" y="284" font-size="11" text-anchor="middle" fill="#1a1f30">Diagrams how the bots work together</text>
+<rect x="30" y="323" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="170" y="347" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL Pricing (GGL)</text>
+<text x="170" y="368" font-size="11" text-anchor="middle" fill="#1a1f30">Works out what to charge</text>
+<rect x="343" y="323" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="483" y="347" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL SEO (GGL)</text>
+<text x="483" y="368" font-size="11" text-anchor="middle" fill="#1a1f30">SEO, Google Analytics, and social media</text>
+<rect x="656" y="323" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="796" y="347" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL SiteAudit (GGL)</text>
+<text x="796" y="368" font-size="11" text-anchor="middle" fill="#1a1f30">Audits client websites and online listings</text>
+<rect x="970" y="323" width="280" height="62" rx="10" fill="#f5a623" fill-opacity="0.88" stroke="#f5a623"/>
+<text x="1110" y="347" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">GGL Website Builder (GGL)</text>
+<text x="1110" y="368" font-size="11" text-anchor="middle" fill="#1a1f30">Builds the multilingual GGL website</text>
+<rect x="30" y="407" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="170" y="431" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">AI Search Bot (Work Force)</text>
+<text x="170" y="452" font-size="11" text-anchor="middle" fill="#1a1f30">Checks brand visibility on AI &amp; Google</text>
+<rect x="343" y="407" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="483" y="431" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">App Designer (Work Force)</text>
+<text x="483" y="452" font-size="11" text-anchor="middle" fill="#1a1f30">Designs app screens and looks</text>
+<rect x="656" y="407" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="796" y="431" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Bot Health Monitor (Work Force)</text>
+<text x="796" y="452" font-size="11" text-anchor="middle" fill="#1a1f30">Watches bot health; reports problems</text>
+<rect x="970" y="407" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="1110" y="431" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Bot Maintenance (Work Force)</text>
+<text x="1110" y="452" font-size="11" text-anchor="middle" fill="#1a1f30">Keeps the shared bot computer healthy</text>
+<rect x="30" y="491" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="170" y="515" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Business Creator (Work Force)</text>
+<text x="170" y="536" font-size="11" text-anchor="middle" fill="#1a1f30">Turns business ideas into launch kits</text>
+<rect x="343" y="491" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="483" y="515" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Claude Bridge (Work Force)</text>
+<text x="483" y="536" font-size="11" text-anchor="middle" fill="#1a1f30">Builds apps with Claude and GitHub</text>
+<rect x="656" y="491" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="796" y="515" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Deal Scout (Work Force)</text>
+<text x="796" y="536" font-size="11" text-anchor="middle" fill="#1a1f30">Finds veteran hotel and flight deals</text>
+<rect x="970" y="491" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="1110" y="515" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Docu Cabinet (Work Force)</text>
+<text x="1110" y="536" font-size="11" text-anchor="middle" fill="#1a1f30">Files one copy of every document</text>
+<rect x="30" y="575" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="170" y="599" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Due Diligence Analyst (Work Force)</text>
+<text x="170" y="620" font-size="11" text-anchor="middle" fill="#1a1f30">Vets companies and deals with citations</text>
+<rect x="343" y="575" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="483" y="599" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Grok Bot Creator (Work Force)</text>
+<text x="483" y="620" font-size="11" text-anchor="middle" fill="#1a1f30">Designs and creates new bots</text>
+<rect x="656" y="575" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="796" y="599" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Marketplace Desk (Work Force)</text>
+<text x="796" y="620" font-size="11" text-anchor="middle" fill="#1a1f30">Helps sell on Facebook Marketplace</text>
+<rect x="970" y="575" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="1110" y="599" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Outbound Bot (Work Force)</text>
+<text x="1110" y="620" font-size="11" text-anchor="middle" fill="#1a1f30">Researches prospects; drafts outreach</text>
+<rect x="30" y="659" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="170" y="683" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Site Creator (Work Force)</text>
+<text x="170" y="704" font-size="11" text-anchor="middle" fill="#1a1f30">Builds high-end marketing websites</text>
+<rect x="343" y="659" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="483" y="683" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Stalk Bot (Work Force)</text>
+<text x="483" y="704" font-size="11" text-anchor="middle" fill="#1a1f30">Watches competitors&#x27; pricing and pages</text>
+<rect x="656" y="659" width="280" height="62" rx="10" fill="#33d17a" fill-opacity="0.88" stroke="#33d17a"/>
+<text x="796" y="683" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Travel Concierge (Work Force)</text>
+<text x="796" y="704" font-size="11" text-anchor="middle" fill="#1a1f30">Plans trips with veteran and Amex perks</text>
+<rect x="970" y="659" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="1110" y="683" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">All Trade Handyman (Business Bots)</text>
+<text x="1110" y="704" font-size="11" text-anchor="middle" fill="#1a1f30">Handyman website, invoices, marketing</text>
+<rect x="30" y="743" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="170" y="767" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">CME Web App Center (Business Bots)</text>
+<text x="170" y="788" font-size="11" text-anchor="middle" fill="#1a1f30">Computing Made Easy site and App Center</text>
+<rect x="343" y="743" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="483" y="767" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Florida Açaí (Business Bots)</text>
+<text x="483" y="788" font-size="11" text-anchor="middle" fill="#1a1f30">Açaí shop website, menu, marketing</text>
+<rect x="656" y="743" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="796" y="767" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Food Truck (Business Bots)</text>
+<text x="796" y="788" font-size="11" text-anchor="middle" fill="#1a1f30">Plans and runs the food truck</text>
+<rect x="970" y="743" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="1110" y="767" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Gibney Dental (Business Bots)</text>
+<text x="1110" y="788" font-size="11" text-anchor="middle" fill="#1a1f30">Dental office management app and tools</text>
+<rect x="30" y="827" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="170" y="851" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Hermes Trailer (Business Bots)</text>
+<text x="170" y="872" font-size="11" text-anchor="middle" fill="#1a1f30">Cargo trailer customer catalog app</text>
+<rect x="343" y="827" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="483" y="851" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Ola (Business Bots)</text>
+<text x="483" y="872" font-size="11" text-anchor="middle" fill="#1a1f30">Ola&#x27;s Route 66 Lunch Box restaurant</text>
+<rect x="656" y="827" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="796" y="851" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Organic House Cleaning (Business Bots)</text>
+<text x="796" y="872" font-size="11" text-anchor="middle" fill="#1a1f30">House cleaning business marketing</text>
+<rect x="970" y="827" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="1110" y="851" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Realty Desk (Business Bots)</text>
+<text x="1110" y="872" font-size="11" text-anchor="middle" fill="#1a1f30">Property listings site and ad flyers</text>
+<rect x="30" y="911" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="170" y="935" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Smart Touch Homes (Business Bots)</text>
+<text x="170" y="956" font-size="11" text-anchor="middle" fill="#1a1f30">IT and home automation business</text>
+<rect x="343" y="911" width="280" height="62" rx="10" fill="#4a9eff" fill-opacity="0.88" stroke="#4a9eff"/>
+<text x="483" y="935" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Y&amp;M Total Solutions (Business Bots)</text>
+<text x="483" y="956" font-size="11" text-anchor="middle" fill="#1a1f30">Landscaping marketing, tools, bid pricing</text>
+<rect x="656" y="911" width="280" height="62" rx="10" fill="#c77dff" fill-opacity="0.88" stroke="#c77dff"/>
+<text x="796" y="935" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Arise with Grace Coffee (GitHub Bots)</text>
+<text x="796" y="956" font-size="11" text-anchor="middle" fill="#1a1f30">Christian women&#x27;s café planning and outreach</text>
+<rect x="970" y="911" width="280" height="62" rx="10" fill="#c77dff" fill-opacity="0.88" stroke="#c77dff"/>
+<text x="1110" y="935" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Bible Verse Tracker (GitHub Bots)</text>
+<text x="1110" y="956" font-size="11" text-anchor="middle" fill="#1a1f30">Saves Bible verses that matter</text>
+<rect x="30" y="995" width="280" height="62" rx="10" fill="#c77dff" fill-opacity="0.88" stroke="#c77dff"/>
+<text x="170" y="1019" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Biblical Pharmacy (GitHub Bots)</text>
+<text x="170" y="1040" font-size="11" text-anchor="middle" fill="#1a1f30">Explains herbs through a biblical lens</text>
+<rect x="343" y="995" width="280" height="62" rx="10" fill="#c77dff" fill-opacity="0.88" stroke="#c77dff"/>
+<text x="483" y="1019" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Booth Ops (GitHub Bots)</text>
+<text x="483" y="1040" font-size="11" text-anchor="middle" fill="#1a1f30">360 photo booth app operations</text>
+<rect x="656" y="995" width="280" height="62" rx="10" fill="#c77dff" fill-opacity="0.88" stroke="#c77dff"/>
+<text x="796" y="1019" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Doula (GitHub Bots)</text>
+<text x="796" y="1040" font-size="11" text-anchor="middle" fill="#1a1f30">Doula education and exercise app</text>
+<rect x="970" y="995" width="280" height="62" rx="10" fill="#c77dff" fill-opacity="0.88" stroke="#c77dff"/>
+<text x="1110" y="1019" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Faithful Service Network (GitHub Bots)</text>
+<text x="1110" y="1040" font-size="11" text-anchor="middle" fill="#1a1f30">Business directory site and listings</text>
+<rect x="30" y="1079" width="280" height="62" rx="10" fill="#c77dff" fill-opacity="0.88" stroke="#c77dff"/>
+<text x="170" y="1103" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Fire Fellowship and Bible Verse (GitHub Bots)</text>
+<text x="170" y="1124" font-size="11" text-anchor="middle" fill="#1a1f30">Live multilingual fellowship caption app</text>
+<rect x="343" y="1079" width="280" height="62" rx="10" fill="#c77dff" fill-opacity="0.88" stroke="#c77dff"/>
+<text x="483" y="1103" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Kingdom Sisters (GitHub Bots)</text>
+<text x="483" y="1124" font-size="11" text-anchor="middle" fill="#1a1f30">Live multilingual sisters caption app</text>
+<rect x="656" y="1079" width="280" height="62" rx="10" fill="#c77dff" fill-opacity="0.88" stroke="#c77dff"/>
+<text x="796" y="1103" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Meeting Translator (GitHub Bots)</text>
+<text x="796" y="1124" font-size="11" text-anchor="middle" fill="#1a1f30">Live multilingual meeting captions</text>
+<rect x="970" y="1079" width="280" height="62" rx="10" fill="#c77dff" fill-opacity="0.88" stroke="#c77dff"/>
+<text x="1110" y="1103" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Pantry Desk (GitHub Bots)</text>
+<text x="1110" y="1124" font-size="11" text-anchor="middle" fill="#1a1f30">Food pantry check-in tracker</text>
+<rect x="30" y="1163" width="280" height="62" rx="10" fill="#ff6b9d" fill-opacity="0.88" stroke="#ff6b9d"/>
+<text x="170" y="1187" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">AI Phone Assistant (Personal)</text>
+<text x="170" y="1208" font-size="11" text-anchor="middle" fill="#1a1f30">Places and answers calls via Bland AI</text>
+<rect x="343" y="1163" width="280" height="62" rx="10" fill="#ff6b9d" fill-opacity="0.88" stroke="#ff6b9d"/>
+<text x="483" y="1187" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Bounty Hunter (Personal)</text>
+<text x="483" y="1208" font-size="11" text-anchor="middle" fill="#1a1f30">Finds missed refunds and unclaimed money</text>
+<rect x="656" y="1163" width="280" height="62" rx="10" fill="#ff6b9d" fill-opacity="0.88" stroke="#ff6b9d"/>
+<text x="796" y="1187" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">DJ Bot (Personal)</text>
+<text x="796" y="1208" font-size="11" text-anchor="middle" fill="#1a1f30">Builds Spotify and YouTube playlists</text>
+<rect x="970" y="1163" width="280" height="62" rx="10" fill="#ff6b9d" fill-opacity="0.88" stroke="#ff6b9d"/>
+<text x="1110" y="1187" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Grok Watch (Personal)</text>
+<text x="1110" y="1208" font-size="11" text-anchor="middle" fill="#1a1f30">Tracks new Grok and Grok Bot features</text>
+<rect x="30" y="1247" width="280" height="62" rx="10" fill="#ff6b9d" fill-opacity="0.88" stroke="#ff6b9d"/>
+<text x="170" y="1271" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">House Fixer (Personal)</text>
+<text x="170" y="1292" font-size="11" text-anchor="middle" fill="#1a1f30">Home upkeep, repairs, appliance notebook</text>
+<rect x="343" y="1247" width="280" height="62" rx="10" fill="#ff6b9d" fill-opacity="0.88" stroke="#ff6b9d"/>
+<text x="483" y="1271" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">last30days (Personal)</text>
+<text x="483" y="1292" font-size="11" text-anchor="middle" fill="#1a1f30">Researches what people say last 30 days</text>
+<rect x="656" y="1247" width="280" height="62" rx="10" fill="#ff6b9d" fill-opacity="0.88" stroke="#ff6b9d"/>
+<text x="796" y="1271" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Personal Assistant (Personal)</text>
+<text x="796" y="1292" font-size="11" text-anchor="middle" fill="#1a1f30">Personal life: calendar, errands, reminders</text>
+<rect x="970" y="1247" width="280" height="62" rx="10" fill="#ff6b9d" fill-opacity="0.88" stroke="#ff6b9d"/>
+<text x="1110" y="1271" font-size="15" text-anchor="middle" font-weight="bold" fill="#0b1020">Vet Buddy (Personal)</text>
+<text x="1110" y="1292" font-size="11" text-anchor="middle" fill="#1a1f30">VA benefits, health care, claims navigator</text>
+</svg>
